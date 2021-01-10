@@ -1,34 +1,32 @@
-{
-  "wallpapers": [
-    {
-      "author": "Unsplash",
-      "url": "https://i.imgur.com/znCjMMV.jpg",
-      "name": "Wall 01"
-    },
-    {
-      "author": "Unsplash",
-      "url": "https://i.imgur.com/OJlSLC8.jpg",
-      "name": "Wall 02"
-    },
-    {
-      "author": "Unsplash",
-      "url": "https://i.imgur.com/q7cyMH5.jpg",
-      "name": "Wall 03"
-    },
-    {
-      "author": "Unsplash",
-      "url": "https://i.imgur.com/pGuPqC5.jpg",
-      "name": "Wall 04"
-    },
-    {
-      "author": "Unsplash",
-      "url": "https://i.imgur.com/GfWpBUP.jpg",
-      "name": "Wall 05"
-    },
-    {
-      "author": "Unsplash",
-      "url": "https://i.imgur.com/xU6omYr.jpg",
-      "name": "Wall 06"
-    }
-  ]
-}
+[
+	{
+		"name": "01",
+		"author": "Unsplash",
+		"url": "https://i.imgur.com/znCjMMV.jpg"
+	},
+	{
+		"name": "02",
+		"author": "Unsplash",
+		"url": "https://i.imgur.com/OJlSLC8.jpg"
+	},
+	{
+		"name": "03",
+		"author": "Unsplash",
+		"url": "https://i.imgur.com/q7cyMH5.jpg"
+	},
+	{
+		"name": "04",
+		"author": "Unsplash",
+		"url": "https://i.imgur.com/pGuPqC5.jpg"
+	},
+	{
+		"name": "05",
+		"author": "Unsplash",
+		"url": "https://i.imgur.com/GfWpBUP.jpg"
+	},
+	{
+		"name": "06",
+		"author": "Unsplash",
+		"url": "https://i.imgur.com/xU6omYr.jpg"
+	}
+]
